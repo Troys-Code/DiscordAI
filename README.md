@@ -68,31 +68,19 @@ This flow graph visualizes the flow of the code, starting from the user message 
 ```
 ---
 
-- Ovan — Today at 3:58 AM 
-
-@AI Chat As the adventurers step into the dimly lit chamber, the air grows heavy with the scent of ancient stone and the faint musk of long-forgotten secrets. Torches flicker along the walls, casting dancing shadows that seem to whisper tales of forgotten battles and lost treasures. The room is vast, its high ceiling adorned with intricate carvings depicting legendary heroes and fearsome creatures.  
-In the center of the chamber, a massive stone altar stands as a solemn centerpiece. It is adorned with intricate runes, their ancient script hinting at forgotten magic. The altar seems to pulse with an otherworldly energy, drawing the eyes of the adventurers to its mysterious power.  
-Around the room, towering stone pillars rise like sentinels, their surfaces etched with arcane symbols. They seem to hold the weight of the world above, their presence a testament to the grandeur of the ancient civilization that once thrived in this place.  
-As the adventurers move closer to the altar, their footsteps echo through the chamber, a reminder of their presence in this hallowed space. Dust particles dance in the air, catching the faint light and creating an ethereal glow. The air grows colder, sending shivers down their spines.  
-Suddenly, a soft whisper fills the chamber, barely audible yet unmistakable. It seems to come from the very walls themselves, carrying with it a sense of both warning and invitation. The adventurers exchange glances, their eyes gleaming with anticipation and trepidation.  
-As they prepare to delve deeper into the mysteries of this ancient chamber, their weapons at the ready and their minds filled with the knowledge that they stand on the precipice of both great danger and unimaginable rewards. They take a collective breath, ready to face whatever challenges await them in this legendary place of adventure and magic. 
-
-- AI Chat 
-BOT 
- — Today at 3:58 AM 
-
-Image[`Intriguingly detailed description about entering a large underground cavernous area where there's lots of old statues around some kind of big central alter which pulses or vibrates slightly giving off mystical vibezz`]
+![Discord AI Bot](DiscordAI.png)
 
 ---
 
-### Evaluate my ai, i am not reading the description but the image appears to be in a mysterious tavern with many shadows and light directly from above in the center highlighting a glowing statue made of the same materal as the cave walls area. it has pillars and sculptures cracks in the ground and looks very old and magical
+# Evaluate my ai, 
+- I am not reading the description but the image appears to be in a mysterious tavern with many shadows and light directly from above in the center highlighting a glowing statue made of the same materal as the cave walls area. it has pillars and sculptures cracks in the ground and looks very old and magical.
 
-Answer :
+# Answer : 
 
-Based on the description provided, the AI's interpretation of the scene as a large underground cavernous area with old statues, a central altar pulsing with mystical energy, and a sense of mystery aligns with the original text. The image you described, featuring a mysterious tavern with shadows and light from above, a glowing statue, pillars, sculptures, and cracks in the ground, also captures the essence of the scene described. 
+- Based on the description provided, the AI's interpretation of the scene as a large underground cavernous area with old statues, a central altar pulsing with mystical energy, and a sense of mystery aligns with the original text. The image you described, featuring a mysterious tavern with shadows and light from above, a glowing statue, pillars, sculptures, and cracks in the ground, also captures the essence of the scene described. 
  
-The AI successfully captured the atmosphere of the dimly lit chamber, the presence of ancient statues, and the central altar emitting mystical energy. The depiction of shadows and light from above adds to the mysterious ambiance. The inclusion of cracks in the ground and the overall aged and magical appearance further enhance the scene. 
+- The AI successfully captured the atmosphere of the dimly lit chamber, the presence of ancient statues, and the central altar emitting mystical energy. The depiction of shadows and light from above adds to the mysterious ambiance. The inclusion of cracks in the ground and the overall aged and magical appearance further enhance the scene. 
  
-Overall, the AI did a commendable job of capturing the key elements and atmosphere described in the original text, as evident from the image you described. It successfully evokes a sense of adventure, mystery, and magic, aligning with the expectations of a Dungeons and Dragons scene.
+- Overall, the AI did a commendable job of capturing the key elements and atmosphere described in the original text, as evident from the image you described. It successfully evokes a sense of adventure, mystery, and magic, aligning with the expectations of a Dungeons and Dragons scene.
 
 ---
